@@ -1,7 +1,7 @@
 unSortedList = [5,2,8,4,10,1,3]
 #0,1,2,3,4,5,8
 
-#Time Complexity: Worst: O(n^2) list sorted least to greatest, Best: O(n) list already sorted
+#Time Complexity: Only Case: O(n^2) list sorted least to greatest
 def bubbleSort(yourList):
     for x in range(len(yourList)): # goes through the entire list
 
