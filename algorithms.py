@@ -56,6 +56,6 @@ def mergeSort(yourList):
 
 #print("Bubble Sort",bubbleSort(unSortedList))
 #print("Insertion Sort",insertionSort(unSortedList))
-print("Merge Sort",mergeSort(unSortedList))
+#print("Merge Sort",mergeSort(unSortedList))
         
 
